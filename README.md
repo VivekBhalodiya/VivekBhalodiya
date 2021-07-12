@@ -2,4 +2,4 @@
 - 👀 I’m interested in building high quality tech products which provides the best user experiences.
 - 🌱 I’m currently working on native Android development & flutter 
 - 💞️ I’m looking to collaborate on the things that I'm working on.
-- 📫 How to reach me - [LinkedIn](https://www.linkedin.com/in/vivek-bhalodiya/), [Email](patelvivek650@gmail.com)
+- 📫 How to reach me - [LinkedIn](https://www.linkedin.com/in/vivek-bhalodiya/)
